@@ -25,3 +25,12 @@
 - `Index` as for `ON_DELETE`
 
 ### More Content Will Be Updated !
+
+
+######
+# File `compile`
+
+its a simple bash script for automatication compile process in linux
+you also can use my `launch.json` and trigger it to vscode workspace you have
+
+i just felt that i have to explain the file don't get it to much ;)
