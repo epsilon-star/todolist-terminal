@@ -24,6 +24,15 @@
 - searching in all tasks
 - `Index` as for `ON_DELETE`
 
+## Version 3 
+- login/pin, password protected, 3 attempts -> lockout
+- new themes
+- subtasks
+- notes
+- recurring task, repeat mode, habit mode
+- pinned tasks
+- weekly agenda
+
 ### More Content Will Be Updated !
 
 
