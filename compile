@@ -1,4 +1,8 @@
 #!/bin/bash
+
 name=$(basename "$1" .cpp)
-g++ "$1" -o "$name.app"
-./"$name.app"
+output="${2:-$name}"
+
+g++ "$1" -o "$output" || exit 1
+
+./"$output"
