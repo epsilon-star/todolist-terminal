@@ -43,3 +43,5 @@ its a simple bash script for automatication compile process in linux
 you also can use my `launch.json` and trigger it to vscode workspace you have
 
 i just felt that i have to explain the file don't get it to much ;)
+
+- Update: now the script will support output file argument as optional argument, otherwise it uses the given file name as the  name for output file
