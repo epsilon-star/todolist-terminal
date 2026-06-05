@@ -33,6 +33,16 @@
 - pinned tasks
 - weekly agenda
 
+## Version 4
+- pomodoro system added
+- streaks system added (habits)
+- new weekly review
+- tasks dependencies, no task:4 until task:3 done
+- delete replaced with archieve
+- quick add inline and `q` option
+- app now have profile settings
+- task cli support !
+
 ### More Content Will Be Updated !
 
 
